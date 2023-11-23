@@ -1,1 +1,10 @@
 # Resume-Builder
+![Screenshot (89)](https://github.com/AbhijeetDotexe/Resume-Builder/assets/82932131/e38e94ff-f286-4620-96e2-5a5fab228aec)
+![Screenshot (90)](https://github.com/AbhijeetDotexe/Resume-Builder/assets/82932131/458788f5-f49f-401b-8cfd-e9815b89e8f1)
+![Screenshot (88)](https://github.com/AbhijeetDotexe/Resume-Builder/assets/82932131/17611aec-673b-4561-aceb-d587c8c6bf7c)
+![Screenshot (90)](https://github.com/AbhijeetDotexe/Resume-Builder/assets/82932131/b200cc01-ba44-4fcc-89ed-68d10507952d)
+![Screenshot (88)](https://github.com/AbhijeetDotexe/Resume-Builder/assets/82932131/ecbf0d0f-9546-4381-9ef3-ff8f3fedc2d2)
+![Screenshot (89)](https://github.com/AbhijeetDotexe/Resume-Builder/assets/82932131/166755b0-e5c9-4189-b338-66b67077c3c9)
+![Screenshot (88)](https://github.com/AbhijeetDotexe/Resume-Builder/assets/82932131/1dc0c8c6-206a-43ab-86d1-0d4d91ed27a1)
+![Screenshot (89)](https://github.com/AbhijeetDotexe/Resume-Builder/assets/82932131/99a2542e-aead-483d-91cc-4c093de0ec54)
+![Screenshot (90)](https://github.com/AbhijeetDotexe/Resume-Builder/assets/82932131/7f041e20-bef2-49f9-9ce4-65684c5a7ac8)
